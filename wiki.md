@@ -1,4 +1,5 @@
 # Mount Kilimanjaro
+
 ![Image of Mount Kilimanjaro](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mt._Kilimanjaro_12.2006.JPG/272px-Mt._Kilimanjaro_12.2006.JPG)
 
 ***Mount Kilimanjaro*** is a dormant volcano in Tanzania. It has three volcanic cones: Kibo, Mawenzi, and Shira. It is the highest mountain in Africa and the highest single free-standing mountain above sea level in the world: 5,895 metres (19,341 ft) above sea level and about 4,900 metres (16,100 ft) above its plateau base. It is the highest volcano in Africa and the Eastern Hemisphere.
@@ -24,6 +25,7 @@ Eruptive activity at the Shira centre commenced about 2.5 million years ago, wit
 Both Mawenzi and Kibo began erupting about 1 million years ago. They are separated by the Saddle Plateau at 4,400 metres (14,400 ft) elevation.
 
 The youngest dated rocks at Mawenzi are about 448,000 years old. Mawenzi forms a horseshoe-shaped ridge with pinnacles and ridges opening to the northeast, with a tower-like shape resulting from deep erosion and a mafic dike swarm. Several large cirques cut into the ring. The largest of these sits on top of the Great Barranco gorge. Also notable are the East and West Barrancos on the northeastern side of the mountain. Most of the eastern side of the mountain has been removed by erosion. Mawenzi has a subsidiary peak, Neumann Tower, 4,425 metres (14,518 ft).
+
 ![Aerial View of Kilimanjaro](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mount_Kilimanjaro_Dec_2009_edit1.jpg/220px-Mount_Kilimanjaro_Dec_2009_edit1.jpg)
 
 ### Glaciers
@@ -32,6 +34,7 @@ Kibo's diminishing ice cap exists because Kilimanjaro is a little-dissected, mas
 Geological evidence shows five successive glacial episodes during the Quaternary period, namely First (500,000 BP), Second (greater than 360,000 years ago to 240,000 BP), Third (150,000 to 120,000 BP), Fourth (also known as "Main") (20,000 to 17,000 BP), and Little (16,000 to 14,000 BP). The Third may have been the most extensive, and the Little appears to be statistically indistinguishable from the Fourth.
 
 A continuous ice cap covering approximately 400 square kilometres (150 sq mi) down to an elevation of 3,200 metres (10,500 ft) covered Kilimanjaro during the Last Glacial Maximum in the Pleistocene epoch (the Main glacial episode), extending across the summits of Kibo and Mawenzi. Because of the exceptionally prolonged dry conditions during the subsequent Younger Dryas stadial, the ice fields on Kilimanjaro may have become extinct around 11,500 years BP. Ice cores taken from Kilimanjaro's Northern Ice Field (NIF) indicates that the glaciers there have a basal age of about 11,700 years, although an analysis of ice taken in 2011 from exposed vertical cliffs in the NIF supports an age extending only to 800 years BP. Higher precipitation rates at the beginning of the Holocene epoch (11,500 years BP) allowed the ice cap to reform. The glaciers survived a widespread drought during a three century period beginning around 4,000 years BP.
+
 ![Kilimanjaro's Glaciers](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kilimanjaro_dymamics2.jpg/220px-Kilimanjaro_dymamics2.jpg)
 
 ## See also
